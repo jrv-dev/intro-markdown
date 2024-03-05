@@ -1,4 +1,8 @@
-# Aprendiendo _Mardown_
+# Aprendiendo *Markdown* {#aprendiendo-markdown}
+
+Esto es un parrafo dsdsdsdsd
+dsdsdsddsdsdsds.Esto es un parrafo dsdsdsdsd
+dsdsdsddsdsdsds.
 
 Esto es un parrafo dsdsdsdsd
 dsdsdsddsdsdsds.Esto es un parrafo dsdsdsdsd
@@ -7,19 +11,21 @@ dsdsdsddsdsdsds.
 Esto es otro parrafo dsdsdsdsd
 dsdsdsddsdsdsds.
 
-aplicando _cursiva_ y **negrita**.
+---
+aplicando *cursiva* y **negrita**.
 
+---
 # Encabezado 1
 ## Encabezado 2
 ### Encabezado 3
 #### Encabezado 4
 ##### Encabezado 5
 ###### Encabezado 6
-
+---
 ## otro encabezado de ejemplo
 [Google](https://google.com) 
 
-[Aprendiendo _Markdown_](#aprendiendo-mardown)
+[Aprendiendo Markdown](#aprendiendo-markdown)
 
 [Otro encabezado](#otro-encabezado-de-ejemplo)
 ![Imagen web](https://img.freepik.com/foto-gratis/leon-melena-arcoiris-ojos-azules_1340-39421.jpg)
@@ -35,10 +41,10 @@ Texto1 es una division
 y este otro texto
 
 1. Enero
-1. Febrero
-    - San Valentin
-1. Marzo
-1. Abril
+2. Febrero
+    * San Valentin
+3. Marzo
+4. Abril
     - Fin del cuatrimestre 🙌
         - Vacaciones 
 
@@ -88,13 +94,3 @@ void main(void){
 ---
 
  <!-- Los Comentarios son iguales que html -->
-
----
-
-Para poner negrita en markdown se utiliza el **
-
-Ejemplo: \*\*N\*\*
-
-Resultado: **N**
-
----
